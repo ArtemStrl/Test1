@@ -1,0 +1,14 @@
+- npm модули
+  - node-qiwi-api@1.1.2
+  - mongoose
+  - txnId
+  - node-telegram-bot-api
+  - pm2
+
+- Команды для бота
+ - pm2 start app.js
+ - pm2 ls
+ - pm2 restart app
+ - pm2 stop app
+ - pm2 delete app
+ - pm2 log app
